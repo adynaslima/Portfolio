@@ -1,8 +1,7 @@
 #sobre_section {
-    text-align: center;
     padding: 2.5rem;
     background-color: rgb(228, 228, 228);
-    height: 100vh;
+    height: 150vh;
 }
 
 #sobre_container {
@@ -16,6 +15,12 @@
     border-radius: 50%;
 }
 
+#sobre_titulo {
+    text-align: center;
+}
+
 .sobre_paragrafo {
     margin-top: 0.8rem;
+    text-align: justify;
+    font-size: 1.3rem;
 }
